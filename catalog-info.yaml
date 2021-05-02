@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: linz-react
+  description: linz-react
+  annotations:
+    github.com/project-slug: chrisdoc-org/linz-react
+spec:
+  type: website
+  lifecycle: experimental
+  owner: chrisdoc-org
